@@ -6,6 +6,7 @@
 ### MinMax Times
 
 | **Path:**								|					/{dataset}/conn/minmax |
+| --- | --- |
 
 | **Request Params**			|					NA |
 
