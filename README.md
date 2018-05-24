@@ -9,9 +9,9 @@
 | --- | --- |
 
 | **Request Params**			|					NA |
-
+| --- | --- |
 | **Type**								|					GET |
-
+| --- | --- |
 | **Response**						|					Minimum(int64),Maximum(int64) |
 
 | **Sample Request** |
